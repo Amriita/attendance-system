@@ -16,6 +16,7 @@ This project is an instructor attendance system that allows institutes to track 
     npm start
 
 5. Access the APIs using tools like Postman or through a web browser:
+   
         Check-in: POST /api/checkin
         Check-out: POST /api/checkout
         Monthly report: GET /api/reports/:year/:month
