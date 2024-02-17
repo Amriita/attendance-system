@@ -4,7 +4,7 @@ This project is an instructor attendance system that allows institutes to track 
 
 ## Installation
 1. Clone the repository to your local machine:
-    git clone <repository_url>
+    git clone https://github.com/Amriita/attendance-system
 
 2. Navigate to the project directory:
     cd attendance-system
